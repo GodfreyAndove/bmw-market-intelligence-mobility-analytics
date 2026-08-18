@@ -1,0 +1,25 @@
+Country,ISO2,ISO3,Region,UN_Subregion,Currency
+Canada,CA,CAN,North America,Northern America,CAD
+China,CN,CHN,Asia,Eastern Asia,CNY
+Egypt,EG,EGY,Africa,Northern Africa,EGP
+France,FR,FRA,Europe,Western Europe,EUR
+Germany,DE,DEU,Europe,Western Europe,EUR
+India,IN,IND,Asia,Southern Asia,INR
+Italy,IT,ITA,Europe,Southern Europe,EUR
+Japan,JP,JPN,Asia,Eastern Asia,JPY
+Kenya,KE,KEN,Africa,Eastern Africa,KES
+Mexico,MX,MEX,North America,Central America,MXN
+Morocco,MA,MAR,Africa,Northern Africa,MAD
+Netherlands,NL,NLD,Europe,Western Europe,EUR
+Nigeria,NG,NGA,Africa,Western Africa,NGN
+Qatar,QA,QAT,Asia,Western Asia,QAR
+Saudi Arabia,SA,SAU,Asia,Western Asia,SAR
+South Africa,ZA,ZAF,Africa,Southern Africa,ZAR
+South Korea,KR,KOR,Asia,Eastern Asia,KRW
+Spain,ES,ESP,Europe,Southern Europe,EUR
+Sweden,SE,SWE,Europe,Northern Europe,SEK
+Thailand,TH,THA,Asia,South-eastern Asia,THB
+Turkey,TR,TUR,Asia,Western Asia,TRY
+United Arab Emirates,AE,ARE,Asia,Western Asia,AED
+United Kingdom,GB,GBR,Europe,Northern Europe,GBP
+United States,US,USA,North America,Northern America,USD

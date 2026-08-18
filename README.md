@@ -1,10 +1,10 @@
 BMW SALES BIG-DATASET
 ======================================
-Coverage: 1 Jan 2015 - 31 Jul 2026
-Transactions: 1.2 Million Rows
-Countries: 24
-Models: 11
-Channels: 3
+Coverage: 1 Jan 2015 - 31 Jul 2026,
+Transactions: 1.2 Million Rows,
+Countries: 24,
+Models: 11,
+Channels: 3,
 
 STATUS:
 
